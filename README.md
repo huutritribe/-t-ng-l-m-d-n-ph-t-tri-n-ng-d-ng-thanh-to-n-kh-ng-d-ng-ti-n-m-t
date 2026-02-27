@@ -1365,7 +1365,3 @@ const styles = StyleSheet.create({
 - **Economic Growth** - Support digital economy
 
 ---
-
-**🎉 ỨNG DỤNG VNPAY ĐÃ ĐƯỢC PHÁT TRIỂN HOÀN CHỈNH CHO IOS & ANDROID!**
-
-*VNPay App sẵn sàng ra mắt trên App Store và Google Play với đầy đủ tính năng thanh toán quốc gia Việt Nam.*
